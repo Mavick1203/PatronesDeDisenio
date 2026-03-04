@@ -1,3 +1,1 @@
-# PatronesDeDisenioPrograII
-# PatronesDeDisenioPrograII
-# PatronesDeDisenio
+
